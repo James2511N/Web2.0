@@ -1,0 +1,23 @@
+[
+  {
+    "firstName": "firstName-1",
+    "lastName": "lastName-1",
+    "login": "login-2",
+    "password": "password-1",
+    "token": "d5732f5f-d621-4fba-a1dc-72d186ba14f7"
+  },
+  {
+    "firstName": "firstName-1",
+    "lastName": "lastName-1",
+    "login": "login-1",
+    "password": "password-1"
+  },
+  {
+    "firstName": "firstName-2",
+    "lastName": "lastName-2",
+    "login": "login-3",
+    "password": "password-2",
+    "token": "7e6f5e06-ceef-47ac-a22d-ac74d5b29812"
+  },
+  {}
+]
